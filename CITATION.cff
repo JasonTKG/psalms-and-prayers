@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, together with the sources named in README.md."
+type: dataset
+title: "The Psalms verse by verse in three public-domain English texts"
+abstract: "All 150 psalms, verse by verse, in three public-domain English texts, and one index row per psalm. Psalms and Prayers prints these texts side by side."
+authors:
+  - name: "JasonTKG"
+    website: "https://github.com/JasonTKG"
+url: "https://psalms-and-prayers.at01.io/"
+repository: "https://github.com/JasonTKG/psalms-and-prayers"
+license: CC0-1.0
+version: "2026.11.24"
+date-released: "2026-11-24"
+keywords:
+  - "dataset"
+  - "open-data"
+  - "psalms"
+  - "bible"
+  - "kjv"
+  - "public-domain"
+  - "csv"

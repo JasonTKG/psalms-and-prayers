@@ -1,8 +1,8 @@
 # The Psalms verse by verse in three public-domain English texts
 
-All 150 psalms, verse by verse, in three public-domain English texts, and one index row per psalm. Psalms and Prayers prints these texts side by side.
+**Site: [psalms-and-prayers.at01.io](https://psalms-and-prayers.at01.io/)** · Download: [latest release](https://github.com/JasonTKG/psalms-and-prayers/releases/latest)
 
-Site: https://psalms-and-prayers.at01.io/
+All 150 psalms, verse by verse, in three public-domain English texts, and one index row per psalm. Psalms and Prayers prints these texts side by side.
 
 ## Files
 
