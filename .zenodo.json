@@ -1,0 +1,33 @@
+{
+ "title": "The Psalms verse by verse in three public-domain English texts",
+ "description": "All 150 psalms, verse by verse, in the King James Version, the American Standard Version and the World English Bible, with a per-psalm index.<br><br>Site built on this data: https://psalms-and-prayers.at01.io/<br>Source repository, with columns, sources and how it was checked: https://github.com/JasonTKG/psalms-and-prayers<br>",
+ "upload_type": "dataset",
+ "creators": [
+  {
+   "name": "JasonTKG"
+  }
+ ],
+ "license": "cc-zero",
+ "keywords": [
+  "dataset",
+  "open-data",
+  "psalms",
+  "bible",
+  "kjv",
+  "public-domain",
+  "csv"
+ ],
+ "access_right": "open",
+ "related_identifiers": [
+  {
+   "identifier": "https://psalms-and-prayers.at01.io/",
+   "relation": "isSupplementTo",
+   "scheme": "url"
+  },
+  {
+   "identifier": "https://github.com/JasonTKG/psalms-and-prayers",
+   "relation": "isDerivedFrom",
+   "scheme": "url"
+  }
+ ]
+}
